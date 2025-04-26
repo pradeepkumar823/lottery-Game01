@@ -36,7 +36,8 @@ function App() {
 
 ```
 
-![App Screenshot](src/assets)
+![App Screenshot](src/assets/Screenshot 2025-04-27 002706.png)
+![App Screenshot](src/assets/Screenshot 2025-04-27 002853.png)
 
 ## 📂 Folder Structure
 ├── public/
@@ -53,10 +54,10 @@ function App() {
 
 ## ⚙️ How to Run the Project Locally
 1.Clone the repository:
-git clone https://github.com/your-username/lottery-game.git
+git clone https://github.com/pradeepkumar823/lottery-Game01.git
 
 2.Navigate into the project directory:
-cd lottery-game
+cd lottery-Game01
 
 3.Install the dependencies:
 npm install
@@ -72,4 +73,4 @@ Winning tickets are saved and displayed separately
 
 
 
-git clone https://github.com/your-username/lottery-game.git
+git clone https://github.com/pradeepkumar823/lottery-Game01.git
