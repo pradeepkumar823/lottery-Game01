@@ -15,6 +15,7 @@ You can easily change:
 - Number of ticket numbers (`n`)
 - Target winning sum (`winningSum`)
 Just update the props in `App.js`:
+
 ```javascript
 function App() {
   return (
@@ -24,9 +25,18 @@ function App() {
   );
 }
 
+function App() {
+  return (
+    <>
+      <Lottery n={10} winningSum={50} />
+    </>
+  );
+}
 
-![App Screenshot](./screenshot.png)
 
+```
+
+![App Screenshot](src/assets)
 
 ## 📂 Folder Structure
 ├── public/
@@ -40,3 +50,26 @@ function App() {
 │   └── index.js
 ├── README.md
 └── package.json
+
+## ⚙️ How to Run the Project Locally
+1.Clone the repository:
+git clone https://github.com/your-username/lottery-game.git
+
+2.Navigate into the project directory:
+cd lottery-game
+
+3.Install the dependencies:
+npm install
+
+Start the development server:
+npm start
+
+📖 How the Game Works
+genRandomNumber(n): generates an array of n random numbers
+sum(ticket): calculates the sum of numbers in a ticket
+If the sum matches the winningSum, it's a Winning Ticket
+Winning tickets are saved and displayed separately
+
+
+
+git clone https://github.com/your-username/lottery-game.git
