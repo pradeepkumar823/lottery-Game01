@@ -32,12 +32,10 @@ function App() {
     </>
   );
 }
-
-
 ```
-![Screenshot](src/assets/Screenshot 2025-04-27 002706.png)
+## 📸 Screenshot
 
-![App Screenshot](src/assets/Screenshot 2025-04-27 002853.png)
+![Screenshot](src/assets/Screenshot 2025-04-27 002706.png) <!-- Add an actual screenshot image in the root folder with the name "screenshot.png" -->
 
 ## 📂 Folder Structure
 ├── public/
