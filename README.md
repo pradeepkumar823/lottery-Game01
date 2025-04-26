@@ -35,8 +35,8 @@ function App() {
 
 
 ```
+![Screenshot](src/assets/Screenshot 2025-04-27 002706.png)
 
-![App Screenshot](src/assets/Screenshot 2025-04-27 002706.png)
 ![App Screenshot](src/assets/Screenshot 2025-04-27 002853.png)
 
 ## 📂 Folder Structure
